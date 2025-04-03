@@ -120,7 +120,7 @@ const CartPage = () => {
 
       // Open Razorpay checkout interface
       const options = {
-        key: "rzp_test_pQj5bzHetL7sXD", // Replace with your Razorpay Key ID
+        key: "your razorpay key", // Replace with your Razorpay Key ID
         amount: subtotal * 100, // Razorpay expects amount in paise
         currency: "INR",
         name: "SalesSavvy",
