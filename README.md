@@ -43,6 +43,7 @@ SalesSavvy is a **full-stack e-commerce platform** designed to provide a seamles
 Feel free to raise issues or contribute via pull requests!
 
 🔗 Links
+
 1.Backend Repo - https://github.com/muzammilahmed10/SalesSavvy-Backend-
 
 2.Demo Video - https://drive.google.com/file/d/1uKT9qlT3uxhHhyFZ4Aoa0RJc2nuX3Vwa/view?usp=drive_link
